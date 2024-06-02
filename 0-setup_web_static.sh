@@ -14,7 +14,7 @@ sudo echo "<html>
   <head>
   </head>
   <body>
-    Holberton School
+    Holberton Schools
   </body>
 </html>" | sudo tee /data/web_static/releases/test/index.html
 
